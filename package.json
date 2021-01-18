@@ -1,0 +1,16 @@
+{
+  "name": "burgerapp",
+  "version": "1.0.0",
+  "description": "\"An app that allows users to create and eat their favorite burger.\"",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maira Acevedo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
