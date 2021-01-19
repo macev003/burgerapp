@@ -4,14 +4,25 @@
   "description": "\"An app that allows users to create and eat their favorite burger.\"",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Maira Acevedo",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
-    "mysql": "^2.18.1"
-  }
+    "mysql": "^2.18.1",
+    "node": "^15.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macev003/burgerapp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/macev003/burgerapp/issues"
+  },
+  "homepage": "https://github.com/macev003/burgerapp#readme"
 }
