@@ -2,9 +2,10 @@
   "name": "burgerapp",
   "version": "1.0.0",
   "description": "\"An app that allows users to create and eat their favorite burger.\"",
-  "main": "yes",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "Maira Acevedo",
   "license": "MIT",
